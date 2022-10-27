@@ -2,9 +2,9 @@
 Это заметки из книги Роберта Мартина "Чистый код".
 
 # Контакты
-- [Еще больше про IT темы на канале](#https://t.me/it_memoirs)
-- [Инстаграмм](#https://www.instagram.com/akela.frontend/)
-- [Linkedin](#https://www.linkedin.com/in/kunerkhan-akerov-b06816187/)
+- [Еще больше про IT темы на канале](https://t.me/it_memoirs)
+- [Инстаграмм](https://www.instagram.com/akela.frontend/)
+- [Linkedin](https://www.linkedin.com/in/kunerkhan-akerov-b06816187/)
 
 # Оглавление
 1. [Предисловие](#Предисловие)
