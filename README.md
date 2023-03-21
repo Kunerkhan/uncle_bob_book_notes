@@ -1,4 +1,4 @@
-# clean_code_notes
+# uncle_Bob_notes
 
 # Контакты
 - [Еще больше про IT темы на канале](https://t.me/it_memoirs)
