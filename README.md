@@ -1,10 +1,5 @@
 # uncle_Bob_notes
 
-# Контакты
-- [Еще больше про IT темы на канале](https://t.me/it_memoirs)
-- [Инстаграмм](https://www.instagram.com/akela.frontend/)
-- [Linkedin](https://www.linkedin.com/in/kunerkhan-akerov-b06816187/)
-
 # Предисловие
 Всем привет! Меня зовут Кунэрхан, можно Акела.
 Я фронтенд-разработчик с 4-летним опытом работы. 
@@ -26,3 +21,8 @@
 - [Чистый код](https://github.com/Kunerkhan/clean_code_notes/blob/master/clean_code_notes.md)
 - [Идеальный программист](https://github.com/Kunerkhan/clean_code_notes/blob/master/The_ideal_programmer_notes.md)
 - Чистая Архитектура(В работе)
+
+# Контакты
+- [Телеграм канал](https://t.me/it_memoirs)
+- [Инстаграмм](https://www.instagram.com/akela.frontend/)
+- [Linkedin](https://www.linkedin.com/in/kunerkhan-akerov-b06816187/)
